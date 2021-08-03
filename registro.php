@@ -1,5 +1,5 @@
 <?php include 'header.php'; ?>
-<div class="container">
+<div class="container" style="background-color: white;">
     <div class="row">
         <div class="col-sm-4"></div>
         <div class="col-sm-4">
